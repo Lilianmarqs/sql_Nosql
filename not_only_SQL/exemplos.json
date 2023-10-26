@@ -1,0 +1,26 @@
+{
+   "_id":1,
+   "nome":"Lilian Marques",
+   "idade":"26",
+   "data_nascimento":"1997-04-16",
+   "enderecos":[
+      {
+         "logadouro":"rua Dorboletas",
+         "numero":"617",
+         "bairro":"Flores",
+         "cidade":"Uberlândia"
+      }
+   ],
+   "interesses":[
+      "jogos",
+      "culinária",
+      "pets"
+   ],
+   "reservas":[
+      {
+         "data":"2023-12-15",
+         "status":"pendente",
+         "destino":"ObjectId(""123"")"
+      }
+   ]
+}
